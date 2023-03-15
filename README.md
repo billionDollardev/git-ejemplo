@@ -3,7 +3,7 @@
 ## Integrantes:
 
 1. William Alvarez [billionDollardev](https://github.com/billionDollardev "billionDollardev")
-2. José Olascuaga [jose](https://github.com/billionDollardev "jose")
+2. José Olascuaga [jose](https://github.com/JoseOlascoaga "Enlace a Perfil en GitHub")
 3. Kelvis Ariza [kelvis](https://github.com/billionDollardev "kelvis")
 
 ## Sprint 1:
